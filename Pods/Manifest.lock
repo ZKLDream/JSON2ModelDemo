@@ -1,0 +1,16 @@
+PODS:
+  - JSONModel (1.2.0)
+  - MJExtension (3.0.10)
+  - YYModel (0.9.12)
+
+DEPENDENCIES:
+  - JSONModel
+  - MJExtension
+  - YYModel (~> 0.9.12)
+
+SPEC CHECKSUMS:
+  JSONModel: 12523685c4b623553ccf844bbbf7007624317b2c
+  MJExtension: d86aacb740c87519d20e3cca55b6fa4be6cc7548
+  YYModel: 33a27f41a995f4c36ff8178421bac9f221a9c7ea
+
+COCOAPODS: 0.38.2
